@@ -1,0 +1,99 @@
+Log_14Mar2025_1034.log
+<>-------------<>-------------<>---------------<>--------------<>--------------<>------------<>-----------<>
+Files will be stored in PDB_collection_14Mar2025_1034
+Number of files to retrieve: 15
+<>-------------<>-------------<>---------------<>--------------<>--------------<>------------<>-----------<>
+Collecting files for the following accessions:
+
+AF: Q7KV24 has an AlphaFold structure available at ID: Q7KV24
+    | Q7KV24/Q7KV24 collected from AF
+    | Q7KV24_AF.pdb
+    Collecting quality score for Q7KV24_AF.pdb
+    {'very_low': 6384, 'low': 1244, 'high': 4417, 'very_high': 1891}
+    Percentages: {'very_low': 45.80941446613088, 'low': 8.926521239954075, 'high': 31.69489092996556, 'very_high': 13.569173363949483}
+AF: Q8T4B2 has an AlphaFold structure available at ID: Q8T4B2
+    | Q8T4B2/Q8T4B2 collected from AF
+    | Q8T4B2_AF.pdb
+    Collecting quality score for Q8T4B2_AF.pdb
+    {'very_low': 703, 'low': 715, 'high': 2649, 'very_high': 1918}
+    Percentages: {'very_low': 11.746031746031745, 'low': 11.946532999164578, 'high': 44.26065162907268, 'very_high': 32.046783625730995}
+PD: O97148 has a non-AlphaFold structure available at ID: 1FJR
+    | O97148/1FJR collected from PDB
+    | O97148_PDB.pdb
+    Collecting quality score for O97148_PDB.pdb
+    {'very_low': 2169, 'low': 590, 'high': 231, 'very_high': 66}
+    Percentages: {'very_low': 70.97513089005236, 'low': 19.30628272251309, 'high': 7.55890052356021, 'very_high': 2.1596858638743455}
+AF: Q9VRN2 has an AlphaFold structure available at ID: Q9VRN2
+    | Q9VRN2/Q9VRN2 collected from AF
+    | Q9VRN2_AF.pdb
+    Collecting quality score for Q9VRN2_AF.pdb
+    {'very_low': 107, 'low': 430, 'high': 1487, 'very_high': 2212}
+    Percentages: {'very_low': 2.525967894239849, 'low': 10.151085930122758, 'high': 35.10387157695939, 'very_high': 52.21907459867799}
+AF: Q9V817 has an AlphaFold structure available at ID: Q9V817
+    | Q9V817/Q9V817 collected from AF
+    | Q9V817_AF.pdb
+    Collecting quality score for Q9V817_AF.pdb
+    {'very_low': 331, 'low': 494, 'high': 1465, 'very_high': 1883}
+    Percentages: {'very_low': 7.931943445962138, 'low': 11.838006230529595, 'high': 35.10663791037623, 'very_high': 45.123412413132044}
+AF: Q9VS77 has an AlphaFold structure available at ID: Q9VS77
+    | Q9VS77/Q9VS77 collected from AF
+    | Q9VS77_AF.pdb
+    Collecting quality score for Q9VS77_AF.pdb
+    {'very_low': 18, 'low': 318, 'high': 2195, 'very_high': 1418}
+    Percentages: {'very_low': 0.4558115978728792, 'low': 8.052671562420866, 'high': 55.58369207394277, 'very_high': 35.907824765763486}
+AF: Q9W0R5 has an AlphaFold structure available at ID: Q9W0R5
+    | Q9W0R5/Q9W0R5 collected from AF
+    | Q9W0R5_AF.pdb
+    Collecting quality score for Q9W0R5_AF.pdb
+    {'very_low': 608, 'low': 604, 'high': 2134, 'very_high': 1394}
+    Percentages: {'very_low': 12.827004219409282, 'low': 12.742616033755274, 'high': 45.0210970464135, 'very_high': 29.40928270042194}
+AF: D4G7D6 has an AlphaFold structure available at ID: D4G7D6
+    | D4G7D6/D4G7D6 collected from AF
+    | D4G7D6_AF.pdb
+    Collecting quality score for D4G7D6_AF.pdb
+    {'very_low': 389, 'low': 612, 'high': 1827, 'very_high': 699}
+    Percentages: {'very_low': 11.029203288914092, 'low': 17.351857102353275, 'high': 51.800396937907564, 'very_high': 19.818542670825064}
+AF: E2QCS3 has an AlphaFold structure available at ID: E2QCS3
+    | E2QCS3/E2QCS3 collected from AF
+    | E2QCS3_AF.pdb
+    Collecting quality score for E2QCS3_AF.pdb
+    {'very_low': 652, 'low': 709, 'high': 3118, 'very_high': 1221}
+    Percentages: {'very_low': 11.43859649122807, 'low': 12.43859649122807, 'high': 54.701754385964904, 'very_high': 21.421052631578945}
+AF: X2JC86 has an AlphaFold structure available at ID: X2JC86
+    | X2JC86/X2JC86 collected from AF
+    | X2JC86_AF.pdb
+    Collecting quality score for X2JC86_AF.pdb
+    {'very_low': 1287, 'low': 1107, 'high': 2377, 'very_high': 460}
+    Percentages: {'very_low': 24.603326323838655, 'low': 21.16230166316192, 'high': 45.440642324603324, 'very_high': 8.7937296883961}
+AF: R7UMF5 has an AlphaFold structure available at ID: R7UMF5
+    | R7UMF5/R7UMF5 collected from AF
+    | R7UMF5_AF.pdb
+    Collecting quality score for R7UMF5_AF.pdb
+    {'very_low': 119, 'low': 323, 'high': 839, 'very_high': 719}
+    Percentages: {'very_low': 5.949999999999999, 'low': 16.150000000000002, 'high': 41.949999999999996, 'very_high': 35.949999999999996}
+AF: R7T6M4 has an AlphaFold structure available at ID: R7T6M4
+    | R7T6M4/R7T6M4 collected from AF
+    | R7T6M4_AF.pdb
+    Collecting quality score for R7T6M4_AF.pdb
+    {'very_low': 60, 'low': 392, 'high': 864, 'very_high': 722}
+    Percentages: {'very_low': 2.9440628066732093, 'low': 19.234543670264966, 'high': 42.39450441609421, 'very_high': 35.426889106967614}
+AF: R7TYL3 has an AlphaFold structure available at ID: R7TYL3
+    | R7TYL3/R7TYL3 collected from AF
+    | R7TYL3_AF.pdb
+    Collecting quality score for R7TYL3_AF.pdb
+    {'very_low': 24, 'low': 755, 'high': 1244, 'very_high': 24}
+    Percentages: {'very_low': 1.172447484123107, 'low': 36.88324377137274, 'high': 60.771861260381044, 'very_high': 1.172447484123107}
+AF: V3ZTX9 has an AlphaFold structure available at ID: V3ZTX9
+    | V3ZTX9/V3ZTX9 collected from AF
+    | V3ZTX9_AF.pdb
+    Collecting quality score for V3ZTX9_AF.pdb
+    {'very_low': 60, 'low': 232, 'high': 976, 'very_high': 934}
+    Percentages: {'very_low': 2.7247956403269753, 'low': 10.535876475930973, 'high': 44.323342415985465, 'very_high': 42.415985467756585}
+AF: V4AFH8 has an AlphaFold structure available at ID: V4AFH8
+    | V4AFH8/V4AFH8 collected from AF
+    | V4AFH8_AF.pdb
+    Collecting quality score for V4AFH8_AF.pdb
+    {'very_low': 17, 'low': 122, 'high': 1006, 'very_high': 827}
+    Percentages: {'very_low': 0.8620689655172413, 'low': 6.186612576064909, 'high': 51.014198782961465, 'very_high': 41.937119675456394}
+
+<>-------------<>--------------<>{ PDB files collected }<>-------------<>--------------<>
